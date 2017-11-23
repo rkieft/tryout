@@ -59,7 +59,7 @@
         <browser>firefox</browser>
         <threads>1</threads>
         <remote>true</remote>
-        <seleniumGridURL>http://127.0.0.1/wd/hub</seleniumGridURL>
+        <seleniumGridURL>http://127.0.0.1:4444/wd/hub</seleniumGridURL>
         <platform/>
         <browserVersion/>
         <proxyEnabled>false</proxyEnabled>
